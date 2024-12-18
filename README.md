@@ -130,3 +130,5 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for m
 For any questions or suggestions, feel free to reach out:
 - **Email**: mshawon@laurentian.ca
 - **GitHub**: https://github.com/shawonmdjahangirhossain
+- **Medium**: https://medium.com/@shawonmd076/cnn-for-image-classification-b88899001153
+- **Google Drive**: https://drive.google.com/drive/u/1/folders/17bJr7QC9616jmYMdsQ8uv_xkVRuwSXZT
